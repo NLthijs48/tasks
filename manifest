@@ -1,0 +1,4 @@
+name: Tasks
+description: Simple tasks app to organize weekly tasks, they will shift to the next person the following week
+api: 3
+icon: droplet

@@ -1,0 +1,8 @@
+.gitignore
+.deployignore
+.deploykey
+LICENSE
+*.md
+deploy
+*.pdf
+*.iml
